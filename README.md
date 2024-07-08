@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spinkeypinkey&label=Profile%20views&color=0e75b6&style=flat" alt="spinkeypinkey" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spinkeypinkey" alt="spinkeypinkey" /></a> </p>
-
 - 🔭 I’m currently working on **a Studio!**
 
 - 🌱 I’m currently learning **JS Frameworks!**
 
 - 📫 How to reach me **spinkey@contact.me**
 
-- ⚡ Fun fact **I also love Game-Dev and work in UE5!**
+- ⚡ Fun fact **I also love Game-Dev and work in Unreal Engine 5!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
